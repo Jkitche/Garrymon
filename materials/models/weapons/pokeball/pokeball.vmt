@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/pokeball/pokeball"
+	"$surfaceprop" "Default"
+	"$envmap" env_cubemap
+	"$envmapmask" "models/weapons/pokeball/pokeball_spec"
+	"%keywords" "tf"
+}
